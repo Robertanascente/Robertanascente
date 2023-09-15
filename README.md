@@ -6,7 +6,7 @@
 Sou estudamte da Dio , estou iniciando minha Jornanda na area de tecnologia. 
 
 ## Conecte-se Comigo!!
-[![Github][def]](https://www.github.com/Robertanascente)
+[![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/Robertanascente)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/nascenteroberta)
  <a href = "mailto:contatobetinascente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
